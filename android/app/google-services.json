@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "685713814949",
+    "project_id": "semester-project-683fb",
+    "storage_bucket": "semester-project-683fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685713814949:android:ac2b71ccae312431d8644c",
+        "android_client_info": {
+          "package_name": "com.rentandride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685713814949-qcraki5r27vctgt4kfqadr35gi6aes2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsv7yLEX2qFAomPD8DoWsRD4Tjj8up2ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685713814949-qcraki5r27vctgt4kfqadr35gi6aes2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685713814949:android:9b1ae5d6eaec91efd8644c",
+        "android_client_info": {
+          "package_name": "com.semesterproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685713814949-v1rmedj5nbce0n4hq1og46tvulp85r5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semesterproject",
+            "certificate_hash": "20341e00e3b50b01266d8267a2697bd487e55279"
+          }
+        },
+        {
+          "client_id": "685713814949-qcraki5r27vctgt4kfqadr35gi6aes2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsv7yLEX2qFAomPD8DoWsRD4Tjj8up2ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685713814949-qcraki5r27vctgt4kfqadr35gi6aes2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
